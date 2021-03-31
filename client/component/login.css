@@ -1,0 +1,19 @@
+* {
+    background: gray;
+  }
+  .direction {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    /* padding: 10px; */
+  }
+  
+  .input {
+    height: 30px;
+    margin: 10px;
+    background: white;
+    color: black;
+    border-radius: 5px;
+    border: none;
+  }
+  

@@ -1,0 +1,1 @@
+export const ipConfig = "http://localhost:2001/"
